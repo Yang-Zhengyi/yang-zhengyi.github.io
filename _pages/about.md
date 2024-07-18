@@ -23,6 +23,9 @@ Supervisors Xiang Wang (王翔), Xiangnan He (何向南)
 
 Research interest: Generative models (diffusion models, LLMs), Alignment, Prefernece optimization, Recommmendation.
 
+# 💻 Internships
+- *2024.05 - Now*, [WeChat](https://www.wechat.com/), Guangzhou, China.
+
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
