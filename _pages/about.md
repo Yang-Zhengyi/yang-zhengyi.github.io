@@ -19,7 +19,7 @@ redirect_from:
 
 Ph.D student, [Lab of Data Science](https://data-science.ustc.edu.cn/_upload/tpl/14/90/5264/template5264/index.html), USTC
 
-Supervisors: Xiang Wang ([王翔](https://xiangwang1223.github.io/)), Xiangnan He ([何向南](https://hexiangnan.github.io/))
+Supervisors: [Prof. Xiang Wang](https://xiangwang1223.github.io/) (王翔), [Prof. Xiangnan He](https://hexiangnan.github.io/) (何向南)
 
 Research interest: Generative models (diffusion models, LLMs), Alignment, Prefernece optimization, Recommmendation.
 
