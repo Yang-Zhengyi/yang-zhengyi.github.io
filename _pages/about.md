@@ -33,7 +33,7 @@ Research interest: Generative models (diffusion models, LLMs), Alignment, Prefer
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/DreamRec.png=500x300' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/DreamRec.png' alt="sym"  width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generate What You Prefer: Reshaping Sequential Recommendation via Guided Diffusion](https://proceedings.neurips.cc/paper_files/paper/2023/file/4c5e2bcbf21bdf40d75fddad0bd43dc9-Paper-Conference.pdf)
