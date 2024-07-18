@@ -25,7 +25,7 @@ Research interest: Generative models (diffusion models, LLMs), Alignment, Prefer
 
 # 💻 Internships
 - *2024.05 - Now*, [WeChat](https://www.wechat.com/), Guangzhou, China.
-- *2021.10 - 2022.1, [Tencent Music Entertainment](https://www.tencentmusic.com/), Shenzhen, China.
+- *2021.10 - 2022.1*, [Tencent Music Entertainment](https://www.tencentmusic.com/), Shenzhen, China.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
