@@ -21,7 +21,7 @@ Ph.D student, [Lab of Data Science](https://data-science.ustc.edu.cn/_upload/tpl
 
 Supervisors: [Prof. Xiang Wang](https://xiangwang1223.github.io/) (王翔), [Prof. Xiangnan He](https://hexiangnan.github.io/) (何向南)
 
-Research interest: Generative models (diffusion models, LLMs), Alignment, Prefernece optimization, Recommmendation.
+Research interest: Generative models (diffusion models, LLMs), Alignment, Preference optimization, Recommmendation.
 
 # 💻 Internships
 - *2024.05 - Now*, [WeChat](https://www.wechat.com/), Guangzhou, China.
