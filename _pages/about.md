@@ -45,6 +45,19 @@ Research interest: Generative models (diffusion models, LLMs), Alignment, Prefer
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2024</div><img src='images/llara.png' alt="sym"  width="100%" height="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LLaRA: Large Language-Recommendation Assistant](https://proceedings.neurips.cc/paper_files/paper/2023/file/4c5e2bcbf21bdf40d75fddad0bd43dc9-Paper-Conference.pdf)
+
+Jiayi Liao, Sihang Li, **Zhengyi Yang**, Jiancan Wu, Yancheng Yuan, Xiang Wang, Xiangnan He
+
+[**Project**](https://scholar.google.com.sg/citations?view_op=view_citation&hl=en&user=VS_LTjMAAAAJ&citation_for_view=VS_LTjMAAAAJ:zYLM7Y9cAGgC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Integrating modality information of pretrained recommenders into LLM for downstream task.
+</div>
+</div>
+
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
