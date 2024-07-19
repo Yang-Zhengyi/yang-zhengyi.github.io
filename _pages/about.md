@@ -28,8 +28,8 @@ Research interest: Generative models (diffusion models, LLMs), Alignment, Prefer
 - *2021.10 - 2022.1*, [Tencent Music Entertainment](https://www.tencentmusic.com/), Shenzhen, China.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*: &nbsp;🎉🎉 LLaRA: Large Language-Recommendation Assistant is selected as **SIGIR 2024 Best Full Paper Awards Nominee**!
+
 
 # 📝 Publications 
 
