@@ -57,20 +57,17 @@ Jiayi Liao, Sihang Li, **Zhengyi Yang**, Jiancan Wu, Yancheng Yuan, Xiang Wang, 
 </div>
 </div>
 
+- A Generic Learning Framework for Sequential Recommendation with Distribution Shifts，**Zhengyi Yang**, Xiangnan He, Jizhi Zhang, Jiancan Wu, Xin Xin, Jiawei Chen, Xiang Wan, in SIGIR 2023.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Large Language Model can Interpret Latent Space of Sequential Recommender, **Zhengyi Yang**, Jiancan Wu, Yanchen Luo, Jizhi Zhang, Yancheng Yuan, An Zhang, Xiang Wang, Xiangnan He, underreview at TKDE.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- A Bi-step Grounding Paradigm for Large Language Models in Recommendation Systems, Keqin Bao, Jizhi Zhang, Wenjie Wang, Yang Zhang, **Zhengyi Yang**, Yancheng Luo, Fuli Feng, Xiangnaan He, Qi Tian, underreview at TORS.
 
+- Item-side Fairness of Large Language Model-based Recommendation System, Meng Jiang, Keqin Bao, Jizhi Zhang, Wenjie Wang, **Zhengyi Yang**, Fuli Feng, Xiangnan He, in WWW 2024.
+
+- MolTC: Towards Molecular Relational Modeling In Language Models, Junfeng Fang, Shuai Zhang, Chang Wu, **Zhengyi Yang**, Zhiyuan Liu, Sihang Li, Kun Wang, Wenjie Du, Xiang Wang, in Findings of ACL 2024.
+  
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.06 - 2024.07 (now)*, Ph.D candidate, University of Science and Technology of China. 
+- *2016.09 - 2020.06*, BEng, School of the Gifted Young, University of Science and Technology of China. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
