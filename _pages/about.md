@@ -57,7 +57,7 @@ Jiayi Liao, Sihang Li, **Zhengyi Yang**, Jiancan Wu, Yancheng Yuan, Xiang Wang, 
 </div>
 </div>
 
-- A Generic Learning Framework for Sequential Recommendation with Distribution Shifts，**Zhengyi Yang**, Xiangnan He, Jizhi Zhang, Jiancan Wu, Xin Xin, Jiawei Chen, Xiang Wan, in SIGIR 2023.
+- A Generic Learning Framework for Sequential Recommendation with Distribution Shifts，**Zhengyi Yang**, Xiangnan He, Jizhi Zhang, Jiancan Wu, Xin Xin, Jiawei Chen, Xiang Wang, in SIGIR 2023.
 
 - Large Language Model can Interpret Latent Space of Sequential Recommender, **Zhengyi Yang**, Jiancan Wu, Yanchen Luo, Jizhi Zhang, Yancheng Yuan, An Zhang, Xiang Wang, Xiangnan He, underreview at TKDE.
 
