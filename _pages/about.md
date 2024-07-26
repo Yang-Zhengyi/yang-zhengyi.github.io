@@ -41,7 +41,7 @@ Research interest: Generative models (diffusion models, LLMs), Alignment, Prefer
 **Zhengyi Yang**, Jiancan Wu, Zhicai Wang, Xiang Wang, Yancheng Yuan, Xiangnan He
 
 [**Project**](https://scholar.google.com.sg/citations?view_op=view_citation&hl=en&user=VS_LTjMAAAAJ&citation_for_view=VS_LTjMAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Generating user's oracel imteraction with diffusion models, guided by user's interaction sequence.
+- Generating user's oracel target item with diffusion models, guided by user's interaction sequence.
 </div>
 </div>
 
