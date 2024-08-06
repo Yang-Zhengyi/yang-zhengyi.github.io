@@ -29,6 +29,10 @@ Research interest: Generative models (diffusion models, LLMs), Alignment, Prefer
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 *LLaRA: Large Language-Recommendation Assistant* is selected as **SIGIR 2024 Best Full Paper Awards Nominee**!
+- *2024.05*: &nbsp;🎉🎉 Tow papers are acctpted by SIGIR 2024 and ACL 2024 respectively, working on LLM for recommendation and molecular relational.
+- *2024.01*: &nbsp;🎉🎉 One paper is acctpted by WWW 2024, working on fairness of LLM for recommendation.
+- *2023.10*: &nbsp;🎉🎉 One paper is acctpted by NeurIPS 2023, working on generative recommendation with diffusion model.
+- *2023.05*: &nbsp;🎉🎉 One paper is acctpted by SIGIR 2023, working on sequential robustness of recommender system.
 
 
 # 📝 Publications 
