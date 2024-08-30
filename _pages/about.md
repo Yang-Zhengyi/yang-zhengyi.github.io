@@ -72,6 +72,6 @@ Jiayi Liao, Sihang Li, **Zhengyi Yang**, Jiancan Wu, Yancheng Yuan, Xiang Wang, 
 - MolTC: Towards Molecular Relational Modeling In Language Models, Junfeng Fang, Shuai Zhang, Chang Wu, **Zhengyi Yang**, Zhiyuan Liu, Sihang Li, Kun Wang, Wenjie Du, Xiang Wang, in Findings of ACL 2024.
   
 # 📖 Educations
-- *2020.06 - 2024.07 (now)*, Ph.D candidate, University of Science and Technology of China. 
+- *2020.06 - now*, Ph.D candidate, University of Science and Technology of China. 
 - *2016.09 - 2020.06*, BEng, School of the Gifted Young, University of Science and Technology of China. 
 
