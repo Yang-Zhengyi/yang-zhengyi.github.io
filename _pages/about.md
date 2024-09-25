@@ -65,7 +65,7 @@ Jiayi Liao, Sihang Li, **Zhengyi Yang**, Jiancan Wu, Yancheng Yuan, Xiang Wang, 
 
 - Large Language Model can Interpret Latent Space of Sequential Recommender, **Zhengyi Yang**, Jiancan Wu, Yanchen Luo, Jizhi Zhang, Yancheng Yuan, An Zhang, Xiang Wang, Xiangnan He, underreview at TKDE.
 
-- A Bi-step Grounding Paradigm for Large Language Models in Recommendation Systems, Keqin Bao, Jizhi Zhang, Wenjie Wang, Yang Zhang, **Zhengyi Yang**, Yancheng Luo, Fuli Feng, Xiangnaan He, Qi Tian, underreview at TORS.
+- A Bi-step Grounding Paradigm for Large Language Models in Recommendation Systems, Keqin Bao, Jizhi Zhang, Wenjie Wang, Yang Zhang, **Zhengyi Yang**, Yancheng Luo, Fuli Feng, Xiangnan He, Qi Tian, underreview at TORS.
 
 - Item-side Fairness of Large Language Model-based Recommendation System, Meng Jiang, Keqin Bao, Jizhi Zhang, Wenjie Wang, **Zhengyi Yang**, Fuli Feng, Xiangnan He, in WWW 2024.
 
