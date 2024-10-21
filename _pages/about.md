@@ -28,11 +28,12 @@ Research interest: Generative models (diffusion models, LLMs), Alignment, Prefer
 - *2021.10 - 2022.1*, [Tencent Music Entertainment](https://www.tencentmusic.com/), Shenzhen, China.
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2024, working on preference optimization in LLM and LLM for recommendation!
 - *2024.07*: &nbsp;🎉🎉 *LLaRA: Large Language-Recommendation Assistant* is selected as **SIGIR 2024 Best Full Paper Awards Nominee**!
-- *2024.05*: &nbsp;🎉🎉 Tow papers are acctpted by SIGIR 2024 and ACL 2024 respectively, working on LLM for recommendation and molecular relational.
-- *2024.01*: &nbsp;🎉🎉 One paper is acctpted by WWW 2024, working on fairness of LLM for recommendation.
-- *2023.10*: &nbsp;🎉🎉 One paper is acctpted by NeurIPS 2023, working on generative recommendation with diffusion model.
-- *2023.05*: &nbsp;🎉🎉 One paper is acctpted by SIGIR 2023, working on sequential robustness of recommender system.
+- *2024.05*: &nbsp;🎉🎉 Tow papers are accepted by SIGIR 2024 and ACL 2024 respectively, working on LLM for recommendation and molecular relational.
+- *2024.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2024, working on fairness of LLM for recommendation.
+- *2023.10*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2023, working on generative recommendation with diffusion model.
+- *2023.05*: &nbsp;🎉🎉 One paper is accepted by SIGIR 2023, working on sequential robustness of recommender system.
 
 
 # 📝 Publications 
@@ -64,6 +65,10 @@ Jiayi Liao, Sihang Li, **Zhengyi Yang**, Jiancan Wu, Yancheng Yuan, Xiang Wang, 
 - A Generic Learning Framework for Sequential Recommendation with Distribution Shifts，**Zhengyi Yang**, Xiangnan He, Jizhi Zhang, Jiancan Wu, Xin Xin, Jiawei Chen, Xiang Wang, in SIGIR 2023.
 
 - Large Language Model can Interpret Latent Space of Sequential Recommender, **Zhengyi Yang**, Jiancan Wu, Yanchen Luo, Jizhi Zhang, Yancheng Yuan, An Zhang, Xiang Wang, Xiangnan He, underreview at TKDE.
+
+- $\beta$-DPO: Direct Preference Optimization with Dynamic $\beta$, Junkang Wu, Yuexiang Xie, **Zhengyi Yang**, Jiancan Wu, Jinyang Gao, Bolin Ding, Xiang Wang, Xiangnan He, in NeurIPS 2024.
+
+- On Softmax Direct Preference Optimization for Recommendation, Yuxin Chen, Junfei Tan, An Zhang, **Zhengyi Yang**, Leheng Sheng, Enzhi Zhang, Xiang Wang, Tat-Seng Chua, in NeurIPS 2024.
 
 - A Bi-step Grounding Paradigm for Large Language Models in Recommendation Systems, Keqin Bao, Jizhi Zhang, Wenjie Wang, Yang Zhang, **Zhengyi Yang**, Yancheng Luo, Fuli Feng, Xiangnan He, Qi Tian, underreview at TORS.
 
