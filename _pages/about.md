@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Ph.D student, [Lab of Data Science](https://data-science.ustc.edu.cn/_upload/tpl/14/90/5264/template5264/index.html), USTC
+Ph.D student, [Lab of Data Science](http://data-science.ustc.edu.cn/), USTC
 
 Supervisors: [Prof. Xiang Wang](https://xiangwang1223.github.io/) (王翔), [Prof. Xiangnan He](https://hexiangnan.github.io/) (何向南)
 
