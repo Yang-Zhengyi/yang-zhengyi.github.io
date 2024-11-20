@@ -24,7 +24,7 @@ Supervisors: [Prof. Xiang Wang](https://xiangwang1223.github.io/) (王翔), [Pro
 Research interest: Generative models (diffusion models, LLMs), Alignment, Preference optimization, Recommmendation.
 
 # 💻 Internships
-- *2024.05 - Now*, [WeChat](https://www.wechat.com/), Guangzhou, China.
+- *2024.05 - 2024.10*, [WeChat](https://www.wechat.com/), Guangzhou, China.
 - *2021.10 - 2022.1*, [Tencent Music Entertainment](https://www.tencentmusic.com/), Shenzhen, China.
 
 # 🔥 News
@@ -64,13 +64,13 @@ Jiayi Liao, Sihang Li, **Zhengyi Yang**, Jiancan Wu, Yancheng Yuan, Xiang Wang, 
 
 - A Generic Learning Framework for Sequential Recommendation with Distribution Shifts，**Zhengyi Yang**, Xiangnan He, Jizhi Zhang, Jiancan Wu, Xin Xin, Jiawei Chen, Xiang Wang, in SIGIR 2023.
 
-- Large Language Model can Interpret Latent Space of Sequential Recommender, **Zhengyi Yang**, Jiancan Wu, Yanchen Luo, Jizhi Zhang, Yancheng Yuan, An Zhang, Xiang Wang, Xiangnan He, underreview at TKDE.
+- Large Language Model can Interpret Latent Space of Sequential Recommender, **Zhengyi Yang**, Jiancan Wu, Yanchen Luo, Jizhi Zhang, Yancheng Yuan, An Zhang, Xiang Wang, Xiangnan He.
 
 - $\beta$-DPO: Direct Preference Optimization with Dynamic $\beta$, Junkang Wu, Yuexiang Xie, **Zhengyi Yang**, Jiancan Wu, Jinyang Gao, Bolin Ding, Xiang Wang, Xiangnan He, in NeurIPS 2024.
 
 - On Softmax Direct Preference Optimization for Recommendation, Yuxin Chen, Junfei Tan, An Zhang, **Zhengyi Yang**, Leheng Sheng, Enzhi Zhang, Xiang Wang, Tat-Seng Chua, in NeurIPS 2024.
 
-- A Bi-step Grounding Paradigm for Large Language Models in Recommendation Systems, Keqin Bao, Jizhi Zhang, Wenjie Wang, Yang Zhang, **Zhengyi Yang**, Yancheng Luo, Fuli Feng, Xiangnan He, Qi Tian, underreview at TORS.
+- A Bi-step Grounding Paradigm for Large Language Models in Recommendation Systems, Keqin Bao, Jizhi Zhang, Wenjie Wang, Yang Zhang, **Zhengyi Yang**, Yancheng Luo, Fuli Feng, Xiangnan He, Qi Tian.
 
 - Item-side Fairness of Large Language Model-based Recommendation System, Meng Jiang, Keqin Bao, Jizhi Zhang, Wenjie Wang, **Zhengyi Yang**, Fuli Feng, Xiangnan He, in WWW 2024.
 
